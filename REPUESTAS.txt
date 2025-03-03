@@ -1,0 +1,10 @@
+EJERCICIO 1:
+    1. a. GHI
+    2. b. OFN
+    3. c. 139
+    4. c. 511
+EJERCICIO 2:
+    1. el artista es : A
+    2. el deportistas es : B
+    3. el medico es : C
+    4. e. ninguno de los anteriores
